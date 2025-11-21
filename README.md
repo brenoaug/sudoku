@@ -94,12 +94,4 @@ Saída esperada (tabuleiro resolvido):
 345286179
 ```
 
-(Exemplo ilustrativo — sua implementação pode imprimir com espaços, separadores, ou outro formato.)
-
-## Estrutura sugerida do projeto
-- src/main/java/...  (código fonte)
-- src/test/java/...  (testes unitários)
-- docs/              (documentação adicional)
-- examples/          (exemplos de tabuleiros)
-
 
