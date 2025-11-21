@@ -12,11 +12,6 @@ Projeto em Java para resolver / manipular tabuleiros de Sudoku. Este repositóri
   - [Usando javac/java (manual)](#usando-javacjava-manual)
   - [Usando Maven](#usando-maven)
   - [Usando Gradle](#usando-gradle)
-- [Formato de entrada / exemplo de uso](#formato-de-entrada--exemplo-de-uso)
-- [Estrutura sugerida do projeto](#estrutura-sugerida-do-projeto)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Sobre
 Este projeto implementa lógica para:
